@@ -1,7 +1,6 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoliveiraa/)](https://www.linkedin.com/in/diegoliveiraa/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-6633cc?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoliveiraa)](https://github.com/diegoliveiraa)
 
 ## My name is Diego Oliveira  
 (Java | Spring Boot | PostgreSQL | Docker | AWS | Backend Development) 🚀  
