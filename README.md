@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1>Hi There! 👋</h1>
 
-<!--
-**diegoliveiraa/diegoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoliveiraa/)](https://www.linkedin.com/in/diegoliveiraa/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-6633cc?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoliveiraa)](https://github.com/diegoliveiraa)
 
-Here are some ideas to get you started:
+## My name is Diego Oliveira  
+(Java | Spring Boot | PostgreSQL | Docker | AWS | Backend Development) 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about backend development, building scalable and efficient applications.  
+- 🎓 Bachelor's degree in Computer Science.  
+- 🏗️ Currently focusing on improving my skills in **Docker, Kubernetes, AWS, and Microservices**.  
+- 📖 Always learning new technologies and solving coding challenges.  
+- ⚡ Love to solve problems and optimize systems for better performance.  
+
+### 🛠 Tech Stack
+- **Languages:** Java  
+- **Frameworks:** Spring Boot  
+- **Databases:** PostgreSQL  
+- **Tools:** Docker, Kubernetes, Kafka, Flyway  
+- **Cloud:** AWS  
+
+<div align="left">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoliveiraa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+</div>
